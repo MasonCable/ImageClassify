@@ -1,0 +1,7 @@
+pytube
+flask
+flask-restful
+tensorflow
+boto3
+numpy
+pandas
